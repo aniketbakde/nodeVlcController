@@ -1,0 +1,51 @@
+* {
+    font-family: calibri;
+}
+.thumbnail .caption h3{
+	word-wrap: break-word;
+}
+.nav, .pagination, .carousel, .panel-title a {
+	cursor: pointer;
+}
+.navbar .glyphicon {
+	top: 0px;
+	float: left;
+}
+.navbar .breadcrumb {
+    float: left;
+    margin: 7px 0px 7px 0px;
+	padding: 8px 0px 8px 10px;
+}
+.navbar .breadcrumb>li+li:before {
+    padding: 0px;
+}
+.navbar .list-inline>li {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.navbar-form {
+    padding: 0px 5px;
+}
+.navbar-form .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+.navbar-fixed-bottom {
+	background-color:rgba(0, 0, 0, 0.2)
+}
+.progress {
+    height: 10px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.container .row {
+	margin-bottom: 125px;
+}
+/*.player-control-buttons {
+    margin-bottom: 25px;
+    padding-top: 20px;
+}
+#player-controls {
+	bottom: -150px;
+}*/

@@ -1,0 +1,48 @@
+{
+  "name": "startbootstrap-thumbnail-gallery",
+  "title": "Thumbnail Gallery",
+  "version": "4.0.0-alpha",
+  "homepage": "http://startbootstrap.com/template-overviews/thumbnail-gallery",
+  "author": {
+    "name": "Start Bootstrap"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery.git"
+  },
+  "gitHead": "27b8aec3c5e818427ce236825292b7816acd6dd0",
+  "description": "[Thumbnail Gallery](http://startbootstrap.com/template-overviews/thumbnail-gallery/) is a responsive thumbnail grid template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/issues"
+  },
+  "_id": "startbootstrap-thumbnail-gallery@4.0.0-alpha",
+  "scripts": {},
+  "_shasum": "b4994d697ffa9d874348ddbe2809127bffb2cb02",
+  "_from": "startbootstrap-thumbnail-gallery@latest",
+  "_npmVersion": "4.3.0",
+  "_nodeVersion": "6.2.2",
+  "_npmUser": {
+    "name": "startbootstrap",
+    "email": "feedback@startbootstrap.com"
+  },
+  "dist": {
+    "shasum": "b4994d697ffa9d874348ddbe2809127bffb2cb02",
+    "tarball": "https://registry.npmjs.org/startbootstrap-thumbnail-gallery/-/startbootstrap-thumbnail-gallery-4.0.0-alpha.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "startbootstrap",
+      "email": "feedback@startbootstrap.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/startbootstrap-thumbnail-gallery-4.0.0-alpha.tgz_1488833733599_0.23385611665435135"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/startbootstrap-thumbnail-gallery/-/startbootstrap-thumbnail-gallery-4.0.0-alpha.tgz"
+}
